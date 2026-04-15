@@ -236,5 +236,5 @@ For questions, suggestions, or collaboration opportunities, please reach out thr
 ---
 
 **Version**: 0.1  
-**Last Updated**: August 2, 2025  
+**Last Updated**: April 15, 2026  
 **Maintained by**: Hussein Marah
