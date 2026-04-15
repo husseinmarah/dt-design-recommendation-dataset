@@ -759,7 +759,7 @@
   <Azure_Digital_Twins 
     Title="Microsoft Azure Digital Twins"
     Vendor="Microsoft"
-    Url="https://azure.microsoft.com/en-us/services/digital-twins/"
+    URL="https://azure.microsoft.com/en-us/services/digital-twins/"
     Architecture_Type="Cloud-native PaaS"
     Modeling_Approach="Graph-based using Digital Twins Definition Language (DTDL)"
     Integration_Capabilities="Native integration with Azure IoT Hub, Event Hub, Time Series Insights, REST APIs"
@@ -777,7 +777,7 @@
   <Siemens_Xcelerator 
     Title="Siemens Xcelerator (MindSphere, Teamcenter)"
     Vendor="Siemens"
-    Url="https://www.siemens.com/xcelerator"
+    URL="https://www.siemens.com/xcelerator"
     Architecture_Type="Hybrid (cloud, edge, and on-premises components)"
     Modeling_Approach="Combination of system engineering models, PLM data, and physics-based simulation"
     Integration_Capabilities="Supports industrial protocols (e.g., OPC UA) and integration with legacy systems"
@@ -795,7 +795,7 @@
   <Dassault_3DEXPERIENCE 
     Title="Dassault Systèmes 3DEXPERIENCE"
     Vendor="Dassault Systèmes"
-    Url="https://www.3ds.com/products-services/3dexperience-platform/"
+    URL="https://www.3ds.com/products-services/3dexperience-platform/"
     Architecture_Type="Platform-based (cloud and on-premises options)"
     Modeling_Approach="High-fidelity CAD/CAE modeling and multiphysics simulation"
     Integration_Capabilities="Strong integration within Dassault product ecosystem (e.g., CATIA, SIMULIA)"
@@ -813,7 +813,7 @@
   <IBM_Maximo 
     Title="IBM Maximo Application Suite"
     Vendor="IBM"
-    Url="https://www.ibm.com/products/maximo"
+    URL="https://www.ibm.com/products/maximo"
     Architecture_Type="Cloud and hybrid deployment"
     Modeling_Approach="Asset-centric modeling using operational and maintenance data"
     Integration_Capabilities="Integration with enterprise systems (ERP, IoT platforms) and APIs"
@@ -831,7 +831,7 @@
   <Bentley_iTwin 
     Title="Bentley iTwin Platform"
     Vendor="Bentley Systems"
-    Url="https://www.bentley.com/software/itwin-platform/"
+    URL="https://www.bentley.com/software/itwin-platform/"
     Architecture_Type="Cloud-based platform"
     Modeling_Approach="Integration of BIM, GIS, and reality capture data"
     Integration_Capabilities="Integration with engineering, GIS, and infrastructure data sources"
@@ -849,7 +849,7 @@
   <AWS_IoT_TwinMaker 
     Title="AWS IoT TwinMaker"
     Vendor="Amazon Web Services"
-    Url="https://aws.amazon.com/iot-twinmaker/"
+    URL="https://aws.amazon.com/iot-twinmaker/"
     Architecture_Type="Cloud-native service"
     Modeling_Approach="Entity-component modeling with data connectors"
     Integration_Capabilities="Integration with AWS IoT SiteWise, Kinesis, S3, and other AWS services"
@@ -867,7 +867,7 @@
   <PTC_ThingWorx 
     Title="PTC ThingWorx"
     Vendor="PTC"
-    Url="https://www.ptc.com/en/products/thingworx"
+    URL="https://www.ptc.com/en/products/thingworx"
     Architecture_Type="Industrial IoT platform (cloud and on-premises)"
     Modeling_Approach="Thing-based modeling representing connected assets"
     Integration_Capabilities="Supports industrial connectivity and device integration"
@@ -885,7 +885,7 @@
   <GE_Predix 
     Title="GE Digital Predix"
     Vendor="General Electric"
-    Url="https://www.ge.com/predix"
+    URL="https://www.ge.com/predix"
     Architecture_Type="Industrial cloud platform"
     Modeling_Approach="Asset-centric with physics-informed analytics"
     Integration_Capabilities="Integration with industrial data sources and GE systems"
@@ -903,7 +903,7 @@
   <Bosch_Eclipse_Ditto 
     Title="Eclipse Ditto (Bosch)"
     Vendor="Eclipse Foundation / Bosch"
-    Url="https://www.eclipse.org/ditto/"
+    URL="https://www.eclipse.org/ditto/"
     Architecture_Type="Cloud-native (open-source)"
     Modeling_Approach="Digital twin abstraction via device shadowing"
     Integration_Capabilities="Supports MQTT, HTTP, and REST APIs"
@@ -921,7 +921,7 @@
   <NVIDIA_Omniverse 
     Title="NVIDIA Omniverse"
     Vendor="NVIDIA"
-    Url="https://developer.nvidia.com/nvidia-omniverse"
+    URL="https://developer.nvidia.com/nvidia-omniverse"
     Architecture_Type="Simulation and collaboration platform (GPU-accelerated)"
     Modeling_Approach="Scene graph-based modeling using OpenUSD with physics simulation"
     Integration_Capabilities="Connectors to CAD, simulation, and 3D tools"
@@ -939,7 +939,7 @@
   <Ansys_Twin_Builder 
     Title="Ansys Twin Builder"
     Vendor="Ansys"
-    Url="https://www.ansys.com/products/twin-builder"
+    URL="https://www.ansys.com/products/twin-builder"
     Architecture_Type="Engineering simulation platform"
     Modeling_Approach="Physics-based reduced-order modeling"
     Integration_Capabilities="Integration with Ansys simulation tools"
@@ -957,7 +957,7 @@
   <Autodesk_Tandem 
     Title="Autodesk Tandem"
     Vendor="Autodesk"
-    Url="https://www.autodesk.com/products/tandem/overview"
+    URL="https://www.autodesk.com/products/tandem/overview"
     Architecture_Type="Cloud-based platform"
     Modeling_Approach="BIM-based lifecycle modeling"
     Integration_Capabilities="Integration with Autodesk design and construction tools"
